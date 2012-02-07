@@ -12,7 +12,8 @@ It features :
 - code coverage (coverage:spec task)
 - documentation generation (yard task)
 - rake tasks directory (`tasks/`)
+- travis-ci integration
 
-
+Fork me and send pull requests !
 
 
