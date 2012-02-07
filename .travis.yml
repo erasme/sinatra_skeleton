@@ -1,0 +1,14 @@
+rvm:
+  - 1.9.3
+
+before_install:
+  - gem update --system
+
+script: "bundle exec rake spec"
+
+gemfile:
+  - Gemfile
+
+branches:
+  only:
+    - master
