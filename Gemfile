@@ -4,6 +4,7 @@ gem 'sinatra'
 gem 'redis'
 gem 'rack'
 gem 'thin'
+gem 'rake'
 
 group :development do
   gem 'sqlite3-ruby'
