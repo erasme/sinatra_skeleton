@@ -1,7 +1,5 @@
 # Sinatra Modular App Skeleton
 
-https://secure.travis-ci.org/erasme/sinatra_skeleton.png
-
 [![Build Status](https://secure.travis-ci.org/erasme/sinatra_skeleton.png)](https://secure.travis-ci.org/erasme/sinatra_skeleton)
 
 
